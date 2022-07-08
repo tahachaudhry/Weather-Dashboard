@@ -14,7 +14,7 @@ function initPage() {
     let searchHistory = JSON.parse(localStorage.getItem("search")) || [];
 
 // API 
-const key = "47bc26bddda79eeb56e1806d7ddc6b5f";
+const key = "8f4b4bfdcd391ddacc7bc76796a6cac3";
 
 function getWeather(cityName) {
     // Execute a current weather get request from open weather api
